@@ -1,0 +1,15 @@
+{
+  "name": "eagle-legacy",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "frog dev",
+    "build": "frog build",
+    "start": "frog start"
+  },
+  "dependencies": {
+    "frog": "latest",
+    "hono": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
