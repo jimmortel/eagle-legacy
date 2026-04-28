@@ -8,7 +8,7 @@ export const app = new Frog({
 
 app.frame('/', (c) => {
   return c.res({
-    image: 'https://gateway.pinata.cloud/ipfs/QmZ6z8H6H8H6H8H6H8H6H8H6H8H6H8H6H8H6H8H6H8H6', // On mettra ton lien d'image Zora ici
+     'https://i.imgur.com/v88vU9m.png',
     imageAspectRatio: '1:1',
     intents: [
       <Button value="check">Check Eligibility</Button>,
